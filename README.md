@@ -16,4 +16,4 @@
 ![AlexB7z GitHub stats](https://github-readme-stats.vercel.app/api?username=alexb7z&show_icons=true&theme=dark)<br>
   
 ## EMAIL<br>
-  [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexbrunoduarte@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Gmail-eeff01?style=for-the-badge&logo=gmail&logoColor=black)](mailto:alexbrunoduarte@gmail.com)
