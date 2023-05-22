@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eeff01&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Alex+Bruno;science+and+technology+student+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-<h1 style="color: blue">⤵️</h1>
+<h1 style="color: eeff01">⤵️</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexb7z/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexb7z/)
