@@ -13,7 +13,7 @@
 <img align="align" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-eeff01?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="align" alt="VSCODE" src="https://img.shields.io/badge/VSCode-eeff01?style=for-the-badge&logo=visual%20studio%20code&logoColor=black"/>  
   
-![AlexB7z GitHub stats](https://github-readme-stats.vercel.app/api?username=alexb7z&show_icons=true&theme=dark)<br>
+<br>![AlexB7z GitHub stats](https://github-readme-stats.vercel.app/api?username=alexb7z&show_icons=true&theme=dark)<br>
   
 ## EMAIL<br>
   [![Instagram](https://img.shields.io/badge/Gmail-eeff01?style=for-the-badge&logo=gmail&logoColor=black)](mailto:alexbrunoduarte@gmail.com)
