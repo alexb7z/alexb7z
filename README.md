@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-eeff01?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/alexb7z/)
 
 <div align="center">
-<h1 style="color: eeff01">Tecnologias e Ferramentas</h1>
+<h1> Tecnologias e Ferramentas </h1><br>
   
 <img align="align" alt="HTML" src="https://img.shields.io/badge/HTML5-eeff01?style=for-the-badge&logo=html5&logoColor=black"/>
 <img align="align" alt="CSS" src="https://img.shields.io/badge/CSS3-eeff01?style=for-the-badge&logo=css3&logoColor=black"/>
