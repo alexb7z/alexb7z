@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-eeff01?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/alexb7z/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-eeff01?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/alexb7z/)
 
-<h1 style= "colo: yellow;"> Tecnologias e Ferramentas </h1><br>
+<h1>Tecnologias e Ferramentas</h1><br>
   
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-eeff01?style=for-the-badge&logo=html5&logoColor=black"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-eeff01?style=for-the-badge&logo=css3&logoColor=black"/>
